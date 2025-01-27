@@ -3,13 +3,13 @@
 </div>  
   
 
-### <div align="center">Hi I'm Fabrizio, a Junior Cybersecurity Analyst 🔏 and Full-Stack Developer 💻 working since 2019 🚀</div>  
+### <div align="center">Hi I'm Fabrizio, a Cybersecurity Engineer 🔏 and Full-Stack Developer 💻 working since 2019 🚀</div>  
   
 
 - 🔭 I’m currently working on [Signathor](https://signathor.com/), [Legalbytez](https://legalbytez.com/) and as Freelance 💼
   
 
-- 🛡️ Developing skills in Cybersecurity and Cloud Computing  
+- 🛡️ Developing skills in Cybersecurity Blue Team 🟦 and Cloud Computing  
   
 
 - ❓ Ask me about anything related to Cybersecurity, Python, Vue and related technologies  
