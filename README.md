@@ -88,6 +88,16 @@
 
 <br/>  
 
+## Security tools
+<div align="center">
+<img src=https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=Wireshark&logoColor=white alt=wireshark style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white alt=metasploit style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white alt=debian style="margin-bottom: 5px;" /> 
+<img src=https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge alt=arch-linux style="margin-bottom: 5px;" />  
+<img src=https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white alt=kali style="margin-bottom: 5px;" /> 
+</div> 
+
+<br/>  
 
 ## Connect with me  
 <div align="center">
