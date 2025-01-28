@@ -123,15 +123,20 @@
 
 
 ## Github Stats 
-[![trophy](https://github-trophies.vercel.app/?username=zero780&theme=onedark)](https://github.com/lucthienphong1120/github-trophies)
-
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zero780&theme=dracula&show_icons=true&hide_border=true&layout=compact" align="center" /></div> 
-
+<div align="center">
+    <img src="https://github-trophies.vercel.app/?username=zero780&theme=onedark" alt="GitHub Trophies" />
+</div>
 
 <br/>  
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=zero780&&style=flat-square" align="center" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zero780&theme=dracula&show_icons=true&hide_border=true&layout=compact" align="center" />
+</div>
+
+<br/>  
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=zero780&style=flat-square" align="center" />
 </div>  
 
 <br />
