@@ -134,6 +134,10 @@
 
 <br />
 
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=zero780&theme=onedark&title=-Stars,-Followers,-Issues)](https://github.com/ryo-ma/github-profile-trophy)
+
+  
 ----
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
 <!--
