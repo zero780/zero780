@@ -122,35 +122,24 @@
 <br/>  
 
 
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zero780&theme=dracula&show_icons=true&hide_border=true&layout=compact" align="center" /></div> 
-
+## Github Stats 
+<div align="center">
+    <img src="https://github-trophies.vercel.app/?username=zero780&theme=onedark" alt="GitHub Trophies" />
+</div>
 
 <br/>  
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=zero780&&style=flat-square" align="center" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zero780&theme=dracula&show_icons=true&hide_border=true&layout=compact" align="center" />
+</div>
+
+<br/>  
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=zero780&style=flat-square" align="center" />
 </div>  
 
 <br />
 
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=zero780&theme=onedark&title=-Stars,-Followers,-Issues)](https://github.com/ryo-ma/github-profile-trophy)
-
   
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
-<!--
-**zero780/zero780** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
