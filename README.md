@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">Hi I'm Fabrizio, a Cybersecurity Engineer 🔏 and Full-Stack Developer 💻 working since 2019 🚀</div>  
+### <div align="center">Hi I'm Fabrizio, a Cybersecurity Analyst 🔏 and Full-Stack Developer 💻 working since 2019 🚀</div>  
   
 
 - 🔭 I’m currently working on [Signathor](https://signathor.com/), [Legalbytez](https://legalbytez.com/) and as Freelance 💼
@@ -99,6 +99,17 @@
 
 <br/>  
 
+## Badges
+<div align="center">
+<a href="https://www.credly.com/badges/55fe620a-2e80-429b-9c87-f6926971ebd3" target="_blank">
+<img src=img/badge1.png alt=cybersecurity1 style="height:160px;" />
+</a>
+<a href="https://www.credly.com/earner/earned/badge/89132735-df41-4a77-bcbf-2d0ffcf865f7" target="_blank">
+<img src=img/badge2.png alt=scrum1 style="height:160px;" />
+</a>
+</div> 
+
+
 ## Connect with me  
 <div align="center">
 <a href="https://github.com/zero780" target="_blank">
@@ -141,5 +152,10 @@
 
 <br />
 
+<div align="center">
+<img src="https://media1.tenor.com/m/0JDdpYx_a8YAAAAC/elma-work.gif" align="center" height="" width="600" />
+</div>  
   
+<br />
+
 ----
