@@ -153,6 +153,9 @@
 <a href="https://linkedin.com/in/milton-garcia-cox-986a14210" target="_blank">
 <img src=https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
+<a href="mailto:mfgarciac98@gmail.com" target="_blank">
+<img src=https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white alt=gmail style="margin-bottom: 5px;" />
+</a>
 <a href="https://x.com/mgarcia1698" target="_blank">
 <img src=https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white style="margin-bottom: 5px;" />
 </a>
