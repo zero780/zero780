@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://i.pinimg.com/originals/0f/b9/4d/0fb94dff52a5935e105ec497a0c010a5.gif" align="center" height="" width="600" />
+<img src=assets/gif/gif1.gif align="center" height="" width="600" />
 </div>  
   
 
@@ -90,22 +90,57 @@
 
 ## Security tools
 <div align="center">
-<img src=https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=Wireshark&logoColor=white alt=wireshark style="margin-bottom: 5px;" />
-<img src=https://img.shields.io/badge/metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white alt=metasploit style="margin-bottom: 5px;" />
-<img src=https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white alt=debian style="margin-bottom: 5px;" /> 
-<img src=https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge alt=arch-linux style="margin-bottom: 5px;" />  
-<img src=https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white alt=kali style="margin-bottom: 5px;" /> 
-</div> 
+  <a href="https://www.wireshark.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=Wireshark&logoColor=white" alt="wireshark" style="margin-bottom: 5px;" />
+  </a>
+  <a href="https://portswigger.net/burp" target="_blank">
+    <img src="https://img.shields.io/badge/burpsuite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" alt="burpsuite" style="margin-bottom: 5px;">
+  </a>
+  <a href="https://www.metasploit.com/" target="_blank">
+    <img src="https://img.shields.io/badge/metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white" alt="metasploit" style="margin-bottom: 5px;" />
+  </a>
+  <a href="https://www.openvas.org/" target="_blank">
+    <img src="https://img.shields.io/badge/OpenVAS-6EC535?style=for-the-badge" alt="openvas" style="margin-bottom: 5px;">
+  </a>
+  <a href="https://www.tenable.com/products/nessus" target="_blank">
+    <img src="https://img.shields.io/badge/Nessus-08A8B7?style=for-the-badge" alt="nessus" style="margin-bottom: 5px;">
+  </a>
+  <a href="http://sqlmap.org/" target="_blank">
+    <img src="https://img.shields.io/badge/sqlmap-080808?style=for-the-badge" alt="sqlmap" style="margin-bottom: 5px;">
+  </a>
+  <a href="https://www.openssh.com/" target="_blank">
+    <img src="https://img.shields.io/badge/openssh-E3C146?style=for-the-badge" alt="openssh" style="margin-bottom: 5px;">
+  </a>
+  <a href="https://www.maltego.com/" target="_blank">
+    <img src="https://img.shields.io/badge/maltego-303849?style=for-the-badge" alt="maltego" style="margin-bottom: 5px;">
+  </a>
+  <a href="https://www.openwall.com/john/" target="_blank">
+    <img src="https://img.shields.io/badge/john%20the%20ripper-C61B1B?style=for-the-badge" alt="johntheripper" style="margin-bottom: 5px;">
+  </a>
+  <a href="https://nmap.org/" target="_blank">
+    <img src="https://img.shields.io/badge/nmap-9DD9F0?style=for-the-badge" alt="nmap" style="margin-bottom: 5px;">
+  </a>
+  <br/> 
+  <a href="https://www.debian.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white" alt="debian" style="margin-bottom: 5px;" />
+  </a>
+  <a href="https://archlinux.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge" alt="arch-linux" style="margin-bottom: 5px;" />
+  </a>
+  <a href="https://www.kali.org/" target="_blank">
+    <img src="https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white" alt="kali" style="margin-bottom: 5px;" />
+  </a>
+</div>
 
 <br/>  
 
 ## Badges
 <div align="center">
 <a href="https://www.credly.com/badges/55fe620a-2e80-429b-9c87-f6926971ebd3" target="_blank">
-<img src=img/badge1.png alt=cybersecurity1 style="height:160px;" />
+<img src=assets/img/badge1.png alt=cybersecurity1 style="height:160px;" />
 </a>
 <a href="https://www.credly.com/earner/earned/badge/89132735-df41-4a77-bcbf-2d0ffcf865f7" target="_blank">
-<img src=img/badge2.png alt=scrum1 style="height:160px;" />
+<img src=assets/img/badge2.png alt=scrum1 style="height:160px;" />
 </a>
 </div> 
 
@@ -153,7 +188,7 @@
 <br />
 
 <div align="center">
-<img src="https://media1.tenor.com/m/0JDdpYx_a8YAAAAC/elma-work.gif" align="center" height="" width="600" />
+<img src=assets/gif/gif2.gif align="center" height="" width="600" />
 </div>  
   
 <br />
