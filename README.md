@@ -162,9 +162,9 @@
 <a href="https://www.youtube.com/@fabriziogc" target="_blank">
 <img src=https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
 </a>  
-<a href="https://www.twitch.com/zero880gc" target="_blank">
+<!-- <a href="https://www.twitch.com/zero880gc" target="_blank">
 <img src=https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white alt=twitch style="margin-bottom: 5px;" />
-</a>  
+</a>   -->
 </div>  
   
 
