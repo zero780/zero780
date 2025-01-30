@@ -136,10 +136,10 @@
 
 ## Badges
 <div align="center">
-<a href="https://www.credly.com/badges/55fe620a-2e80-429b-9c87-f6926971ebd3" target="_blank">
+<a href="https://www.credly.com/badges/55fe620a-2e80-429b-9c87-f6926971ebd3/public_url" target="_blank">
 <img src=assets/img/badge1.png alt=cybersecurity1 style="height:160px;" />
 </a>
-<a href="https://www.credly.com/earner/earned/badge/89132735-df41-4a77-bcbf-2d0ffcf865f7" target="_blank">
+<a href="https://www.credly.com/badges/89132735-df41-4a77-bcbf-2d0ffcf865f7/public_url" target="_blank">
 <img src=assets/img/badge2.png alt=scrum1 style="height:160px;" />
 </a>
 </div> 
