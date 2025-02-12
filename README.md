@@ -56,7 +56,6 @@
 <a href="https://graphql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/graphql.png" alt="GraphQL" height="50" /></a>  
 <a href="https://docs.microsoft.com/en-us/dotnet/desktop/wpf/xaml/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/xaml.png" alt="XAML" height="50" /></a>  
 <a href="https://www.djangoproject.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="50" /></a>  
-<a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" /></a>  
 </div>
 
 </td><td valign="top" width="33%">
@@ -68,10 +67,12 @@
 <a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>  
 <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
+<a href="https://about.gitlab.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height="50" /></a>  
 <a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
 <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
+<a href="https://kubernetes.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" alt="Kubernetes" height="50" /></a>  
 <a href="https://cloud.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" alt="GCP" height="50" /></a>  
-<a href="https://docs.microsoft.com/en-us/powershell/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powershell.png" alt="PowerShell" height="50" /></a>  
+<a href="https://azure.microsoft.com/en-in/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/microsoft_azure-icon.svg" alt="Azure" height="50" /></a>  
 </div>  
 
 
@@ -136,12 +137,15 @@
 
 ## Badges
 <div align="center">
-<a href="https://www.credly.com/badges/55fe620a-2e80-429b-9c87-f6926971ebd3/public_url" target="_blank">
-<img src=assets/img/badge1.png alt=cybersecurity1 style="height:160px;" />
-</a>
-<a href="https://www.credly.com/badges/89132735-df41-4a77-bcbf-2d0ffcf865f7/public_url" target="_blank">
-<img src=assets/img/badge2.png alt=scrum1 style="height:160px;" />
-</a>
+  <a href="https://www.credly.com/badges/f5b67054-c720-4957-9c17-ca68141cc7a8/public_url" target="_blank">
+    <img src=assets/img/badge3.png alt=scrum1 style="height:160px;" />
+  </a>
+  <a href="https://www.credly.com/badges/55fe620a-2e80-429b-9c87-f6926971ebd3/public_url" target="_blank">
+    <img src=assets/img/badge1.png alt=cybersecurity1 style="height:160px;" />
+  </a>
+  <a href="https://www.credly.com/badges/89132735-df41-4a77-bcbf-2d0ffcf865f7/public_url" target="_blank">
+    <img src=assets/img/badge2.png alt=scrum2 style="height:160px;" />
+  </a>
 </div> 
 
 
